@@ -15,6 +15,7 @@ data/synth/
 models/out/
 tessdata/*.traineddata
 vendor/
+langdata_lstm
 
 # Ponecháme možnost výběru:
 !tessdata/oriogo-starter.traineddata
