@@ -2,10 +2,10 @@
 __pycache__/
 *.pyc
 .vscode/
-
+.DS_Store
 # Surové a mezivýstupy
 data/lstmf/
-data/synth/
+
 *.lstmf
 *.box
 *.tr
