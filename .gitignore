@@ -19,5 +19,5 @@ langdata_lstm
 
 # Ponecháme možnost výběru:
 !tessdata/oriogo-starter.traineddata
-!tessdata/oriogo.traineddata
+!tessdata/oriogo*.traineddata
 !tessdata/ces.traineddata
