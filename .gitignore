@@ -1,0 +1,22 @@
+# Python / IDE
+__pycache__/
+*.pyc
+.vscode/
+
+# Surové a mezivýstupy
+data/lstmf/
+data/synth/
+*.lstmf
+*.box
+*.tr
+*.log
+
+# Velké artefakty (standardně necommitovat)
+models/out/
+tessdata/*.traineddata
+vendor/
+
+# Ponecháme možnost výběru:
+!tessdata/oriogo-starter.traineddata
+!tessdata/oriogo.traineddata
+!tessdata/ces.traineddata
